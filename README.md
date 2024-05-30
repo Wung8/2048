@@ -2,4 +2,4 @@
 
 Behavior cloning for 2048
 
-No finetuning yet
+Tried using REINFORCE for finetuning but doesn't seem successful
